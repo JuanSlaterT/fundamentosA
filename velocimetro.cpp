@@ -4,11 +4,11 @@ using namespace std;
 
 int main()
 {
-	float v,d,t;
-	cout<<"Ingrese la distancia(en km) d= "; cin>>d;
-	cout<<"Ingrese el tiempo(en horas)  t= "; cin>>t;
-	v=d/t;
-	cout<<"La velocidad calculada es de v= "<<t<<endl<<endl;
+	float JDAB_v,JDAB_d,JDAB_t;
+	cout<<"Ingrese la distancia(en km) JDAB_d= "; cin>>JDAB_d;
+	cout<<"Ingrese el tiempo(en horas)  JDAB_t= "; cin>>JDAB_t;
+	JDAB_v=JDAB_d/JDAB_t;
+	cout<<"La velocidad calculada es de JDAB_v= "<<JDAB_v<<endl<<endl;
 	return 0;
 
 
